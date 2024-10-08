@@ -150,3 +150,13 @@ a555b1a2-8fa6-4423-aa16-4ae2833738f5:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+6efa058e-0579-4d0d-8451-5a0aa09ef67c:
+  name: PaperTrain2829
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
