@@ -160,3 +160,13 @@ a555b1a2-8fa6-4423-aa16-4ae2833738f5:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+3298e1ca-b622-43a1-9d0c-3e6bc45b6c94:
+  name: danifest
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
