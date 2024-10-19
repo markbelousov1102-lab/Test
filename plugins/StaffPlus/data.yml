@@ -170,3 +170,13 @@ a555b1a2-8fa6-4423-aa16-4ae2833738f5:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+62d40252-4c9d-41cb-89fe-d4127e023314:
+  name: NoboKik
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
