@@ -74,6 +74,7 @@ world-settings:
     merge-radius:
       exp: 3.0
       item: 2.5
+    mob-spawn-range: 4
     anti-xray:
       enabled: true
       engine-mode: 1
@@ -131,7 +132,6 @@ world-settings:
       combat-exhaustion: 0.3
       regen-exhaustion: 3.0
     max-tnt-per-tick: 100
-    mob-spawn-range: 4
     item-despawn-rate: 6000
     arrow-despawn-rate: 1200
     enable-zombie-pigmen-portal-spawns: true
