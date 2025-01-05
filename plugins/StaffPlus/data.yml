@@ -220,3 +220,13 @@ be740ac9-02e7-4100-8ae1-062c533f271c:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+bd8c4b93-6ee2-4bf5-a20e-a7ebb5a6c624:
+  name: Guailoudou
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
