@@ -200,3 +200,13 @@ a555b1a2-8fa6-4423-aa16-4ae2833738f5:
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+f9eb8b93-22ac-48ac-8431-a7e03687e27a:
+  name: Marcelektro
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
